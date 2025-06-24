@@ -1,4 +1,4 @@
-#Machine Learning Classification Pipeline
+##Machine Learning Classification Pipeline
 This project was developed as part of a Machine Learning assignment at the University of the Witwatersrand. It implements a complete machine learning pipeline for supervised classification using scikit-learn, applied to a real-world tabular dataset.
 
 #Project Overview
